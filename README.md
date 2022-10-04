@@ -9,7 +9,6 @@
 - My App : [ParkInBordeaux](https://parkinbordeaux.app). Available on the [App Store](https://apps.apple.com/fr/app/parkinbordeaux/id1645311974?l=FR) 
 - How to reach me: [My Linkedin](https://www.linkedin.com/in/garciaclement/) 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clmtg&show_icons=true)](https://github.com/clmtg)
 
 <!--
 **clmtg/Clmtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clmtg&show_icons=true)](https://github.com/clmtg)
+
 
 -->
