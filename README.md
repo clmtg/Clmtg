@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Clement Garcia
 ### iOS developer 
 
- [![General badge](https://img.shields.io/badge/OpenToWork-True-COLOR.svg)](https://shields.io/)
+ [![General badge](https://img.shields.io/badge/OpenToWork-True-COLOR.svg)](https://www.linkedin.com/in/garciaclement)
  
  💬 About me :
 - I'm an iOS developer mainly based in France.
